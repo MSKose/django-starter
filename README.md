@@ -7,6 +7,9 @@
 ### Installation
 
 ```python
+# clone this repo
+git clone https://github.com/MSKose/django-starter
+
 # 1. step (creating an environment)
 python -m venv env
 
